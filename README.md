@@ -1,3 +1,5 @@
+GUI & PASSWORD BASED TEXT & FILE ENCRYPTION & DECRYPTION TOOL
+
 This project is a GUI Based Application that encrypts and decrypts text & files using Python. 
 
 It was chosen as a practical way to learn how passwords, keys, encryption, decryption, and a graphical interface work together in one program. 
